@@ -26,7 +26,7 @@
  <a href="#-funcionalidades">Funcionalidades</a> • 
  <a href="#-Mobile">Mobile</a> • 
  <a href="#-Web">Web</a> • 
- <a href="#-Server">Servidor</a> • 
+ <a href="#-Servidor">Servidor</a> • 
  <a href="#-como-executar-o-projeto">Executando</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licença">Licença</a>
@@ -37,7 +37,7 @@
 
 O projeto foi desenvolvido durante a **NLW #2- Next Level Week 2** oferecida pela [Rocketseat](https://nextlevelweek.com/episodios/discovery/1/edicao/2), que é uma experiência online com muito conteúdo prático, desafios e hacks onde as aulas em vídeo ficam  disponíveis durante uma semana, um prazo curto que necessita de muito empenho e dedicação.
 
-👨‍🏫 Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias, permitindo que os alunos encontrem professores e entrem em contato. Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação. 
+O Proffy surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias, permitindo que os alunos encontrem professores e entrem em contato. Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação. 
 
 <br>Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de aprimorar meus conhecimentos em com HTML, CSS, SQL e APIs.
 
@@ -170,4 +170,4 @@ Este projeto está sob a licença [MIT](./LICENSE).
 ---
 
 <!--Bottom session-->
-<h4 align=center>Feito com ❤️ por Kauan Schaeffer 👋 <a href="https://www.linkedin.com/in/k-schaeffer/">Entre em contato :)</a></a></h4>
+<h4 align=center>Desenvolvido por Joyce Querubino <a href="https://www.linkedin.com/in/joyce-querubino/"> <strong>Entre em contato</strong> :)</a></a></h4>
