@@ -1,3 +1,9 @@
+
+<!--Banner e logo-->
+<h1 align="center">
+    <img alt="Proffy" src=".github/logo.png"/>
+</h1>
+
 <!-- Badges -->
 <p align="center">
    <a href="https://www.linkedin.com/in/joyce-querubino/">
@@ -12,21 +18,14 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/K-Schaeffer/NLW-2?color=774DD6">
   
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
 </p>
-
-<!--Banner e logo-->
-<h1 align="center">
-    <img alt="Proffy-Banner" title="Proffy" src=".github/proffy-banner.png"/>
-</h1>
 
 <!-- Indice-->
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> • 
- <a href="#-Mobile">Mobile</a> • 
- <a href="#-Web">Web</a> • 
- <a href="#-Servidor">Servidor</a> • 
+ <a href="#-Versões">Versões</a> •  
  <a href="#-como-executar-o-projeto">Executando</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licença">Licença</a>
@@ -63,7 +62,7 @@ O Proffy surgiu com a missão de trazer uma homenagem aos educadores do Brasil, 
 ---
 
 <!--Layout session-->
-## 🎨 Layouts
+## 🎨 Versões
 
 ### Versão Mobile
 <p align="center">
