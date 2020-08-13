@@ -26,6 +26,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> • 
+ <a href="#-preview">Preview</a> • 
  <a href="#-Versões">Versões</a> •  
  <a href="#-como-executar-o-projeto">Executando</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -37,16 +38,16 @@
 
 O projeto foi desenvolvido durante a **NLW #2- Next Level Week 2** oferecida pela [Rocketseat](https://nextlevelweek.com/episodios/discovery/1/edicao/2), que é uma experiência online com muito conteúdo prático, desafios e hacks onde as aulas em vídeo ficam  disponíveis durante uma semana, um prazo curto que necessita de muito empenho e dedicação.
 
-O Proffy surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias, permitindo que os alunos encontrem professores e entrem em contato. Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação. 
+O <strong>Proffy</strong> surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias, permitindo que os alunos encontrem professores e entrem em contato. Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação. 
 
-<br>Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de aprimorar meus conhecimentos em com HTML, CSS, SQL e APIs.
+Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de aprimorar meus conhecimentos em com HTML, CSS, SQL e APIs.
 
 ---
 
 <!--Funcionalidades do projeto-->
 ## ⚙️ Funcionalidades
 
-- [x] Professores podem se cadastrar na plataforma através de um formulário no qual preenchem seus dados:
+- Professores podem se cadastrar na plataforma através de um formulário no qual preenchem seus dados:
   - [x] Nome completo;
   - [x] Link de uma foto;
   - [x] Número de whatsapp;
@@ -55,12 +56,15 @@ O Proffy surgiu com a missão de trazer uma homenagem aos educadores do Brasil, 
   - [x] Custo hora/aula;
   - [x] Horários disponíveis.
 
-- [x] Alunos podem buscar professores e:
+- Alunos podem buscar professores e:
   - [x] Filtrar por matéria, dia da semana e horário;
   - [x] Entrar em contato diretamente no whatsapp de determinado professor;
   - [x] Além de favoritar os professor através da versão mobile.
   
 ---
+
+## Preview
+
 
 <!--Layout session-->
 ## 🎨 Versões
@@ -90,8 +94,9 @@ O Proffy surgiu com a missão de trazer uma homenagem aos educadores do Brasil, 
 ## 🚀 Como executar o projeto
 
 Este projeto consiste em três partes:
-1. [Frontend](/src/views/pages) 
-2. [Backend](/src/server.js) 
+1. [Mobile](/mobile)
+2. [Web](/src/pages) 
+3. [Servidor](/server/src)  
 3. [Database](/src/database) 
 
 <!--💡Obs-->
@@ -100,6 +105,7 @@ Este projeto consiste em três partes:
 
 * [Git](https://git-scm.com)
 * [Node.js](https://nodejs.org/en/)
+* [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable)
 
 #### 🎲 Rodando o projeto
 
@@ -133,7 +139,7 @@ $ node src/database/db.js
 
 ```
 
-Feito isso, basta executar o procedimento de rodar o projeto, cadastrar professores, e buscá-los ;)
+Feito isso, basta executar o procedimento de rodar o projeto, cadastrar professores, e buscá-los. 
 
 ---
 
