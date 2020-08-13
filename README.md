@@ -1,8 +1,9 @@
 
 <!--Banner e logo-->
-<h1 align="center">
-    <img alt="Proffy" src=".github/logo.png"/>
-</h1>
+
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" />
+</p>
 
 <!-- Badges -->
 <p align="center">
