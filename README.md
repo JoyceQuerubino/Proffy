@@ -21,11 +21,6 @@
     <img alt="Proffy-Banner" title="Proffy" src=".github/proffy-banner.png"/>
 </h1>
 
-<!--Titulo-->
-<h4 align="center"> 
-	📍 Indice 📍
-</h4>
-
 <!-- Indice-->
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
