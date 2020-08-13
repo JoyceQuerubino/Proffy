@@ -1,12 +1,17 @@
 <!-- Badges -->
 <p align="center">
+   <a href="https://www.linkedin.com/in/joyce-querubino/">
+      <img alt="Felipe Martins" src="https://img.shields.io/badge/-Joyce Querubino-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+
+  <a href="https://nextlevelweek.com/episodios/discovery/1/edicao/2">
+    <img alt="NextLevelWeek#2" src="https://img.shields.io/badge/Next Level Week%20-2.0-%237519C1">
+  </a>
+
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/K-Schaeffer/NLW-2?color=774DD6">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/K-Schaeffer/NLW-2?color=774DD6">
   
-  <a href="https://nextlevelweek.com/episodios/discovery/1/edicao/2">
-    <img alt="NextLevelWeek#2" src="https://img.shields.io/badge/Next Level Week%20-2.0-%237519C1">
-  </a>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
 </p>
@@ -25,8 +30,9 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> • 
- <a href="#-layout">Layout</a> • 
- <a href="#-preview">Preview</a> • 
+ <a href="#-Mobile">Versão Mobile</a> • 
+ <a href="#-Web">Versão Web</a> • 
+ <a href="#-Server">Servidor</a> • 
  <a href="#-como-executar-o-projeto">Executando</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licença">Licença</a>
@@ -62,14 +68,14 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ---
 
 <!--Layout session-->
-## 🎨 Layout
+## 🎨 Versão Mobile
 <p align="center">
 <a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web">
   <img alt="Figma layout" src="https://img.shields.io/badge/Layout%20Preview%20-Figma-%2304D361">
 </a>
 </p>
 
-### Web
+### Versão Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Web Homepage" title"Web-Home" src=".github/web-home.png" width="800px">
@@ -77,21 +83,9 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
   <img alt="Web Give-classes page" title="Web-Give-classes" src=".github/web-give-classes.png" width="800px">
 </p>
 
-### Mobile
+### Servidor
 
-<p align="center">
-  <img alt="Mobile preview" title="Mobile-preview"  src=".github/mobile-preview.png" width="800px">
-  
-</p>
-
----
-
-<!--Preview session-->
-## 📺 Preview
-
-<p align="center">
-<img alt="Preview" src=".github/Preview-Functionality.gif" width="800px">
-</p>
+//Texto
 
 ---
 
