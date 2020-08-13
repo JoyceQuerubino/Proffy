@@ -2,7 +2,7 @@
 <!--Banner e logo-->
 
 <p align="center">
-   <img src="./.github/logo.png" alt="Proffy" />
+   <img src="/github/logo.png" alt="Proffy" />
 </p>
 
 <!-- Badges -->
