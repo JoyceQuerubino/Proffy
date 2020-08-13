@@ -12,7 +12,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/K-Schaeffer/NLW-2?color=774DD6">
   
-  
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
 </p>
 
@@ -25,8 +24,8 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> • 
- <a href="#-Mobile">Versão Mobile</a> • 
- <a href="#-Web">Versão Web</a> • 
+ <a href="#-Mobile">Mobile</a> • 
+ <a href="#-Web">Web</a> • 
  <a href="#-Server">Servidor</a> • 
  <a href="#-como-executar-o-projeto">Executando</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -36,10 +35,10 @@
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
 
-Projeto desenvolvido durante a **NLW #2- Next Level Week 2** oferecida pela [Rocketseat](https://nextlevelweek.com/episodios/discovery/1/edicao/2).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+O projeto foi desenvolvido durante a **NLW #2- Next Level Week 2** oferecida pela [Rocketseat](https://nextlevelweek.com/episodios/discovery/1/edicao/2), que é uma experiência online com muito conteúdo prático, desafios e hacks onde as aulas em vídeo ficam  disponíveis durante uma semana, um prazo curto que necessita de muito empenho e dedicação.
 
-👨‍🏫 Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias.  Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação. 
+👨‍🏫 Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias, permitindo que os alunos encontrem professores e entrem em contato. Todo o desenvolvimento foi feito na semana do dia nacional dos profissionais de educação. 
+
 <br>Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de aprimorar meus conhecimentos em com HTML, CSS, SQL e APIs.
 
 ---
@@ -48,22 +47,25 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ## ⚙️ Funcionalidades
 
 - [x] Professores podem se cadastrar na plataforma através de um formulário no qual preenchem seus dados:
-  - [x] nome completo
-  - [x] link de uma foto
-  - [x] número de whatsapp
-  - [x] breve biografia
-  - [x] matéria que será lecionada
-  - [x] custo hora/aula
-  - [x] horários disponíveis
+  - [x] Nome completo;
+  - [x] Link de uma foto;
+  - [x] Número de whatsapp;
+  - [x] Biografia;
+  - [x] Matéria que leciona;
+  - [x] Custo hora/aula;
+  - [x] Horários disponíveis.
 
 - [x] Alunos podem buscar professores e:
   - [x] Filtrar por matéria, dia da semana e horário;
-  - [x] Entrar em contato diretamente no whatsapp de determinado professor. 
+  - [x] Entrar em contato diretamente no whatsapp de determinado professor;
+  - [x] Além de favoritar os professor através da versão mobile.
   
 ---
 
 <!--Layout session-->
-## 🎨 Versão Mobile
+## 🎨 Layouts
+
+### Versão Mobile
 <p align="center">
 <a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web">
   <img alt="Figma layout" src="https://img.shields.io/badge/Layout%20Preview%20-Figma-%2304D361">
