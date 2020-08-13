@@ -70,23 +70,12 @@ Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de ap
 ## 🎨 Versões
 
 ### Versão Mobile
-<p align="center">
-<a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web">
-  <img alt="Figma layout" src="https://img.shields.io/badge/Layout%20Preview%20-Figma-%2304D361">
-</a>
-</p>
+
 
 ### Versão Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Web Homepage" title"Web-Home" src=".github/web-home.png" width="800px">
-  
-  <img alt="Web Give-classes page" title="Web-Give-classes" src=".github/web-give-classes.png" width="800px">
-</p>
 
 ### Servidor
-
-//Texto
 
 ---
 
@@ -97,7 +86,7 @@ Este projeto consiste em três partes:
 1. [Mobile](/mobile)
 2. [Web](/src/pages) 
 3. [Servidor](/server/src)  
-3. [Database](/src/database) 
+4. [Database](/src/database) 
 
 <!--💡Obs-->
 
