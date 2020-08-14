@@ -72,15 +72,13 @@ Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de ap
 <!--Layout session-->
 ## 🎨 Layout
 
-### Versão Mobile
+### 🖥 Versão Mobile
 
-p align="center">
+<p align="center">
    <img src="/github/Conjunto-Web.png" alt="Proffy" />
 </p>
 
-
-### Versão Web
-
+### 📱 Versão Web
 
 
 ---
