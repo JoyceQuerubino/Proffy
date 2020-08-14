@@ -65,18 +65,22 @@ Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de ap
 
 ## Preview
 
+<h1 align="center">
+   <img src="/github/Proffy-Web.gif" alt="Proffy versão web" />
+</h1>
 
 <!--Layout session-->
 ## 🎨 Layout
 
 ### Versão Mobile
 
+p align="center">
+   <img src="/github/Conjunto-Web.png" alt="Proffy" />
+</p>
+
 
 ### Versão Web
 
-<h1 align="center">
-   <img src="/github/Proffy-Web.gif" alt="Proffy versão web" />
-</h1>
 
 
 ---
