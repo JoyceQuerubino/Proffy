@@ -25,7 +25,7 @@
 <!-- Indice-->
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> • 
+ <a href="#-Funcionalidades">Funcionalidades</a> • 
  <a href="#-preview">Preview</a> • 
  <a href="#-Layout">Layout</a> •  
  <a href="#-como-executar-o-projeto">Executando</a> • 
@@ -72,13 +72,13 @@ Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de ap
 <!--Layout session-->
 ## 🎨 Layout
 
-### 🖥 Versão Mobile
+### 📱 Versão Mobile
 
+
+### 🖥 Versão Web
 <p align="center">
    <img src="/github/Conjunto-Web.png" alt="Proffy" />
 </p>
-
-### 📱 Versão Web
 
 
 ---
@@ -87,7 +87,7 @@ Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de ap
 ## 🚀 Como executar o projeto
 
 Este projeto consiste em três partes:
-1. [Mobile](/mobile)
+1. [Mobile](/mobile/src/pages)
 2. [Web](/src/pages) 
 3. [Servidor](/server/src)  
 4. [Database](/src/database) 
