@@ -27,7 +27,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> • 
  <a href="#-preview">Preview</a> • 
- <a href="#-Versões">Versões</a> •  
+ <a href="#-Layout">Layout</a> •  
  <a href="#-como-executar-o-projeto">Executando</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licença">Licença</a>
@@ -67,15 +67,17 @@ Através dele tive meu primeiro contato com o ReactJs e ReactNative, além de ap
 
 
 <!--Layout session-->
-## 🎨 Versões
+## 🎨 Layout
 
 ### Versão Mobile
 
 
 ### Versão Web
 
+<h1 align="center">
+   <img src="/github/Proffy-Web.gif" alt="Proffy versão web" />
+</h1>
 
-### Servidor
 
 ---
 
@@ -94,7 +96,6 @@ Este projeto consiste em três partes:
 
 * [Git](https://git-scm.com)
 * [Node.js](https://nodejs.org/en/)
-* [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable)
 
 #### 🎲 Rodando o projeto
 
@@ -116,7 +117,7 @@ $ npm run dev
 
 ```
 
-Opcionalmente, você pode desejar ter uma base de dados limpa, para isso:
+Como limpar a base de dados:
 
 ```bash
 
