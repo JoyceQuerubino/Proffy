@@ -152,11 +152,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 - [React.js](https://pt-br.reactjs.org/)
-= [React-Native](https://reactnative.dev/)
+- [React-Native](https://reactnative.dev/)
 
-#### **Back-end**  ([NodeJS](https://nodejs.org/en/))
+#### **Back-end**
 
 -   **[SQLite](https://expressjs.com/)**
+-   **[Npm](https://www.npmjs.com/)**
 -   **[Yarn](https://yarnpkg.com/)**
 
 > Veja o arquivo [package.json](./package.json)
