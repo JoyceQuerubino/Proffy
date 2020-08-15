@@ -106,7 +106,7 @@ Este projeto consiste em três partes:
 ```bash
 
 # Clone o repositório
-git clone https://github.com/K-Schaeffer/NLW-2.git
+git clone https://github.com/JoyceQuerubino/Proffy.git
 
 # Acesse a pasta do projeto no prompt de comando
 cd nlw
@@ -119,10 +119,13 @@ yarn start
 
 # O projeto inciará na porta: 3333 - acesse http://localhost:3333 
 
+# Além disso, abra através do prompt de comando o arquivo do servidor 
+cd nlw\server
+
+# Execute o servidor através do, para que os dados possam ser salvos na API 
+yarn start
+
 ```
-
-Feito isso, basta executar o procedimento de rodar o projeto, cadastrar professores, e buscá-los. 
-
 ---
 
 <!--Tecnologies session-->
