@@ -162,8 +162,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo [package.json](./package.json)
 
-#### **Database**  ([Sqlite-Async](https://www.npmjs.com/package/sqlite-async))
-
 #### **Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
