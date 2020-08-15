@@ -122,7 +122,7 @@ yarn start
 # Além disso, abra através do prompt de comando o arquivo do servidor 
 cd nlw\server
 
-# Execute o servidor através do, para que os dados possam ser salvos na API 
+# Execute o servidor através para que os dados possam ser salvos na API 
 yarn start
 
 ```
