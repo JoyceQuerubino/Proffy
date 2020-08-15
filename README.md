@@ -147,13 +147,17 @@ Feito isso, basta executar o procedimento de rodar o projeto, cadastrar professo
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-end**  ([HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  +  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) + [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
+#### **Front-end**  
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+- [React.js](https://pt-br.reactjs.org/)
+= [React-Native](https://reactnative.dev/)
 
 #### **Back-end**  ([NodeJS](https://nodejs.org/en/))
 
--   **[Express](https://expressjs.com/)**
--   **[Nunjucks](https://mozilla.github.io/nunjucks/)**
--   **[Nodemon](https://nodemon.io)**
+-   **[SQLite](https://expressjs.com/)**
+-   **[Yarn](https://yarnpkg.com/)**
 
 > Veja o arquivo [package.json](./package.json)
 
