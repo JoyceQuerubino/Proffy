@@ -101,40 +101,23 @@ Este projeto consiste em três partes:
 
 <!--💡Obs-->
 
-### Pré-requisitos
-
-* [Git](https://git-scm.com)
-* [Node.js](https://nodejs.org/en/)
-
 #### 🎲 Rodando o projeto
 
 ```bash
 
 # Clone o repositório
-$ git clone https://github.com/K-Schaeffer/NLW-2.git
+git clone https://github.com/K-Schaeffer/NLW-2.git
 
 # Acesse a pasta do projeto no prompt de comando
-$ cd NLW-2
+cd nlw
 
 # Instale as dependências
-$ npm install
+yarn install
 
 # Execute o script "dev"
-$ npm run dev
+yarn start
 
-# O projeto inciará na porta: 3000 - acesse http://localhost:3000 
-
-```
-
-Como limpar a base de dados:
-
-```bash
-
-# Delete o arquivo database.sqlite
-$ rm -r src/database/database.sqlite
-
-# Execute o arquivo para criação das tabelas
-$ node src/database/db.js
+# O projeto inciará na porta: 3333 - acesse http://localhost:3333 
 
 ```
 
