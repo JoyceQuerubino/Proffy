@@ -137,6 +137,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)** 
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[TypeScript](https://www.typescriptlang.org/)**
 - **[React.js](https://pt-br.reactjs.org/)**
 - **[React-Native](https://reactnative.dev/)**
 
