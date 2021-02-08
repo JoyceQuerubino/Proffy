@@ -26,7 +26,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-Funcionalidades">Funcionalidades</a> • 
- <a href="#-preview">Preview</a> • 
+ <a href="#-Preview">Preview</a> • 
  <a href="#-Layout">Layout</a> •  
  <a href="#-como-executar-o-projeto">Executando</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
